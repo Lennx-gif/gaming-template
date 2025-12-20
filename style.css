@@ -425,7 +425,7 @@ header{
     align-items: center;
     justify-content: space-between;
     background-color: lightgray;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(15px);
 }
 
 .footer p{
@@ -443,9 +443,9 @@ header{
     text-decoration: none;
     color: wheat;
     align-items: center;
-    padding: 9px 7px;
+    padding: 9px 9px;
     border-radius: 50px;
-    border: 2px solid rgba(5, 127, 226, 0.897);
+    border: 1.2rem solid rgba(0, 0, 0, 1);
     margin: 0 10px;
 }
 
