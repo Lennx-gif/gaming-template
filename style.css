@@ -445,7 +445,8 @@ header{
     align-items: center;
     padding: 9px 9px;
     border-radius: 50px;
-    border: 1.2rem solid rgba(0, 0, 0, 1);
+    border: 1.8px solid rgba(0, 0, 0, 0.5);
+    background:none;
     margin: 0 10px;
 }
 
