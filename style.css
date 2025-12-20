@@ -26,6 +26,7 @@ header{
     justify-content: space-between;
     padding: 10px 40px;
     z-index: 999;
+    background:transparent;
     backdrop-filter: blur(10px);
 }
 
