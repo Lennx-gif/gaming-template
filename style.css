@@ -443,12 +443,11 @@ header{
     text-decoration: none;
     color: wheat;
     align-items: center;
-    padding-bottom: 7px;
-    padding-top:9px;
+    padding: 7px 9px;
     border-radius: 50px;
     border: 1.8px solid rgba(0, 0, 0, 0.5);
     background:none;
-    margin: 0 10px;
+    margin: 0 7px;
 }
 
 
